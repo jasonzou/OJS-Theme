@@ -1,4 +1,4 @@
-# Mason Publishing Group Theme for OJS
+# International Journal of Librarianship Theme for OJS (modified version of Mason Publishing Group Theme for OJS)
 
 *Currently in Beta*
 
@@ -8,7 +8,7 @@ A big "Thank you!" to [Carleton University Libraries](https://github.com/cu-libr
 
 ## Installation
 
-To install the mpg theme, upload the theme folder to the plugins/themes directory of your OJS installation. You will then be able to select the Mason Publishing Theme from the dropdown list of available themes.
+To install the mpg theme, upload the theme folder to the plugins/themes directory of your OJS installation. The name of the directory must be "mpg". You will then be able to select the Mason Publishing Theme from the dropdown list of available themes. 
 
 ## Changing Color Scheme within the OJS interface
 
