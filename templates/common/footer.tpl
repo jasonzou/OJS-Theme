@@ -32,9 +32,9 @@
 		{if $issn}
 			<p>ISSN: {$issn}</p>
 		{/if}		
-		<p>Hosted by <a href="http://publishing.gmu.edu">Mason Publishing</a>, part of the <a href="http://library.gmu.edu">George Mason University Libraries</a>.</p>
+		<p>Sponsored by <a href="http://www.cala-web.org">CALA</a>.</p>
 		<a href="http://publishing.gmu.edu">
-			<img src="{$baseUrl}/plugins/themes/mpg/img/15-392_UnitLogo_MasonPubGroup-wide-blk.png" alt="Mason Publishing Logo"/>
+			<img src="{$baseUrl}/plugins/themes/mpg/img/ijol.png" alt="International Journal of Librarianship Logo"/>
 		</a>
 	</div>
 {/strip}
